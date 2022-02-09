@@ -1,7 +1,10 @@
 # jsonplaceholder
 
-A new Flutter project.
-
+A new Flutter project that fetch Data From GuessAgeAPi to Randomly guess your age .  BLOC is used for Ststemanagement
+![Screenshots](https://github.com/itsmeabhi12/AgeGuessApi-FlutterApp/blob/main/Screenshots/Screenshot_1644408799.png)
+![](https://github.com/itsmeabhi12/AgeGuessApi-FlutterApp/blob/main/Screenshots/Screenshot_1644408807.png)
+![](https://github.com/itsmeabhi12/AgeGuessApi-FlutterApp/blob/main/Screenshots/Screenshot_1644408829.png)
+![](https://github.com/itsmeabhi12/AgeGuessApi-FlutterApp/blob/main/Screenshots/Screenshot_1644408830.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
